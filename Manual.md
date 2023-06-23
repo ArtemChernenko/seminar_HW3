@@ -4,4 +4,4 @@
 * Git commit - создает коммит
 * Git add - добавляет файл (-a в git commit -am делает тоже самое)
 ## 2. Ветки.
-* Git branch - выводит список веток
+* Git branch branch_name - создает новую ветку с именем branch_name
