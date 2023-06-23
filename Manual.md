@@ -6,3 +6,4 @@
 ## 2. Ветки.
 * Git branch branch_name - создает новую ветку с именем branch_name
 * Git branch  - выводит список веток
+* Git merge - проводит слияние двух веток
